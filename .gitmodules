@@ -1,0 +1,6 @@
+[submodule "schedule"]
+	path = schedule
+	url = https://github.com/Marcelo20044/schedule.git
+[submodule "schedule-app"]
+	path = schedule-app
+	url = https://github.com/Marcelo20044/schedule.git
