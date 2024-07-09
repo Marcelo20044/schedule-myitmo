@@ -1,0 +1,3 @@
+[submodule "schedule"]
+	path = schedule
+	url = https://github.com/Marcelo20044/schedule.git
